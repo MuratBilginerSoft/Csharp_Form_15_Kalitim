@@ -1,0 +1,10 @@
+c:\users\mrt_b\source\repos\Kalıtım\Kalıtım\bin\Debug\Kalıtım.exe.config
+c:\users\mrt_b\source\repos\Kalıtım\Kalıtım\bin\Debug\Kalıtım.exe
+c:\users\mrt_b\source\repos\Kalıtım\Kalıtım\bin\Debug\Kalıtım.pdb
+c:\users\mrt_b\source\repos\Kalıtım\Kalıtım\obj\Debug\Kalıtım.csprojAssemblyReference.cache
+c:\users\mrt_b\source\repos\Kalıtım\Kalıtım\obj\Debug\Kalıtım.Form1.resources
+c:\users\mrt_b\source\repos\Kalıtım\Kalıtım\obj\Debug\Kalıtım.Properties.Resources.resources
+c:\users\mrt_b\source\repos\Kalıtım\Kalıtım\obj\Debug\Kalıtım.csproj.GenerateResource.cache
+c:\users\mrt_b\source\repos\Kalıtım\Kalıtım\obj\Debug\Kalıtım.csproj.CoreCompileInputs.cache
+c:\users\mrt_b\source\repos\Kalıtım\Kalıtım\obj\Debug\Kalıtım.exe
+c:\users\mrt_b\source\repos\Kalıtım\Kalıtım\obj\Debug\Kalıtım.pdb
